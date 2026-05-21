@@ -1,0 +1,28 @@
+button {
+    text-align: right;
+    background-color: #0b85f8;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    color: azure;
+}
+
+.caixa{
+    text-align: center;
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+  color: #000000;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+img{
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.texto {
+    color: #001a8b;
+    
+}
